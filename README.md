@@ -33,6 +33,18 @@ Built with **Streamlit**, the dashboard allows users to:
 - Simulate key financial ratios: **P/E**, **ROE**
 - (Optional) View AI-generated news summaries
 
+### 📷 Screenshots
+  ![image](https://github.com/user-attachments/assets/4dabcd1c-8410-433d-97db-c2de513660ae)
+  
+  ---
+  
+![image](https://github.com/user-attachments/assets/fc5f0fa7-0163-4f98-81f1-13746ecebdc5)
+
+### Table 
+This table compares actual stock performance with model predictions, and enriches that with financial ratios to offer investment insight.
+![image](https://github.com/user-attachments/assets/aa2da7ea-4ee5-4332-a2d4-9244685ff025)
+
+
 ---
 
 ## 🎯 Objectives
