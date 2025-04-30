@@ -72,11 +72,4 @@ Built with **Streamlit**, the dashboard allows users to:
 - `tensorflow`, `keras`, `scikit-learn`
 - `streamlit`, `matplotlib`, `seaborn`
 
----
 
-## 🛠️ Setup Instructions
-```bash
-git clone https://github.com/yourusername/automotive-stock-predictor.git
-cd automotive-stock-predictor
-pip install -r requirements.txt
-streamlit run dashboard.py
